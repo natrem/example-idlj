@@ -1,0 +1,14 @@
+# eclipse files
+.classpath
+.project
+.settings
+
+# java files
+*.classes
+
+# maven files
+target
+
+# linux files
+*~
+
