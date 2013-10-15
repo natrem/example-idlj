@@ -12,3 +12,5 @@ target
 # linux files
 *~
 
+# Corba
+orb.db

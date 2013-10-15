@@ -1,0 +1,11 @@
+module statistics {
+       exception StatisticsException {
+       };
+
+       interface OrbStatistics {
+             const string NAME = "OrbStatistics";
+             void publish(in string stat);
+       };
+
+       
+};
